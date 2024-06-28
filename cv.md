@@ -24,4 +24,4 @@ To be filled in during the learning process
 Gomel Polytechnic Institute
 ## Languages:
 *Russian
-*Belorussiangit status
+*Belorussian
