@@ -15,3 +15,13 @@ I want to learn Frond-End development. There is no experience in this area yet.
 2. CSS
 3. Git
 4. VS code
+
+
+## Code examples:
+To be filled in during the learning process
+
+## Education:
+Gomel Polytechnic Institute
+## Languages:
+*Russian
+*Belorussiangit status
